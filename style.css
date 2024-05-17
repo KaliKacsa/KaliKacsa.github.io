@@ -1,0 +1,31 @@
+body{
+    font-family: monospace;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(114,145,255,1) 24%, rgba(0,212,255,1) 100%);
+}
+
+footer {
+
+
+    margin: 30px;
+    padding: 30px;
+    display: block;
+    text-align: center;
+    
+}
+
+.fa-github
+{ 
+ 
+    font-size: 15px;
+    color: skyblue;
+   
+   
+} 
+.fa-discord{
+
+
+
+    font-size: 15px;
+    color: skyblue;
+}
